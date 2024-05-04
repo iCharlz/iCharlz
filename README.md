@@ -30,7 +30,6 @@ As a versatile software engineer, I thrive on building complete solutions that s
 
 Whether it's a greenfield project or enhancing an existing system, I'm ready to dive in. Let's create something amazing together! Feel free to connect with me on GitHub.com/icharlz#links orLinkedin.com/in/charlesnwoko 🚀
 
-assets/icons with padding/github.png http://www.github.com/icharlz
 - 🔭 I’m currently working on ... Web Stack
 - 🌱 I’m currently learning ... Django, React
 - 👯 I’m looking to collaborate on any project with anyone 
