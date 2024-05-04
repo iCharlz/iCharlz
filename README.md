@@ -35,6 +35,8 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
 - 📫 How to reach me: ... HTTP://www.yahoomail.com.charlznwoko@yahoo.com HTTP://www.linkedin.com/in/charlesnwoko
 - http://www.github.com/icharlz
 
+assets/icons with padding/github.png http://www.github.com/icharlz
+
 <!--
 **iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
