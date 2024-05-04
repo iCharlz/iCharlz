@@ -32,7 +32,8 @@ As a versatile software engineer, I thrive on building complete solutions that s
 
 Whether it's a greenfield project or enhancing an existing system, I'm ready to dive in. Let's create something amazing together! Feel free to connect with me on GitHub.com/icharlz#links orLinkedin.com/in/charlesnwoko 🚀
 
-- 📫 How to reach me: ... charlznwoko@yahoo.com linkedin.com/in/charlesnwoko
+- 📫 How to reach me: ... HTTP://www.yahoomail.com.charlznwoko@yahoo.com HTTP://www.linkedin.com/in/charlesnwoko
+- http://www.github.com/icharlz
 
 <!--
 **iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
