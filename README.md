@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hi, I'm a Full Stack Developer! 👨‍💻
+# I'm a Full Stack Developer! 👨‍💻
 
 As a versatile software engineer, I thrive on building complete solutions that seamlessly integrate both front-end and back-end components. Whether it's crafting elegant user interfaces or optimizing database queries, I'm passionate about creating robust and user-friendly applications.
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Web Stack
 - 🌱 I’m currently learning ... Django, React
 - 👯 I’m looking to collaborate on any project with anyone 
-- 📫 How to reach me: ... charlznwoko@yahoo.com 
+- 📫 How to reach me: ... charlznwoko@yahoo.com linkedin.com/in/charlesnwoko
 -->
