@@ -32,7 +32,7 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
 
 - 👯 I’m looking to collaborate on any project with anyone 
 
--let's connect: www.linkedin.com/in/charlesnwoko charlznwoko@yahoo.com
+-Let's connect: www.linkedin.com/in/charlesnwoko      charlznwoko@yahoo.com
 
 <!--
 **iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
