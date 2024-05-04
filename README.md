@@ -36,15 +36,15 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
 - http://www.github.com/icharlz
 
 assets/icons with padding/github.png http://www.github.com/icharlz
-
-<!--
-**iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Web Stack
 - 🌱 I’m currently learning ... Django, React
 - 👯 I’m looking to collaborate on any project with anyone 
 
 -let's connect: www.linkedin.com/in/charlesnwoko 
+<!--
+**iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
