@@ -9,7 +9,7 @@ Hi 👋, I'm Charles Nwoko
 
 [![](https://visitcount.itsvg.in/api?id=iCharlz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=https://github-stats.omsimos.com/user/icharlz?theme=default&hide_border=true&count_private=true 
+![github stats](https://github-stats.omsimos.com/user/icharlz?theme=default&hide_border=true&count_private=true 
   
 As a versatile software engineer, I thrive on building complete solutions that seamlessly integrate both front-end and back-end components. Whether it's crafting elegant user interfaces or optimizing database queries, I'm passionate about creating robust and user-friendly applications.
 
@@ -51,12 +51,43 @@ charlznwoko@yahoo.com
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iCharlz&theme=algolia" align="left" />
 </p>
 
+# Technology Stacks:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+# GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemisoDaba&theme=algolia" align="left" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 <!--
 **iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=DemisoDaba&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Contact me here:
+[![GitHub Badge](https://img.shields.io/github/followers/DemisoDaba?style=social)](https://github.com/DemisoDaba?tab=followers)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DemoNkmt1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/demiso-daba-swre0)
+
+## Activities with rank
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DemisoDaba&show_icons=true)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemisoDaba&hide_langs_below=10) -->
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Here are some ideas to get you started:
 
