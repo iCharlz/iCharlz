@@ -9,7 +9,7 @@ Hi 👋, I'm Charles Nwoko
 
 [![](https://visitcount.itsvg.in/api?id=CharlesNwoko&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DemisoDaba&show_icons=true)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Icharlz_icons=true)
   
 As a versatile software engineer, I thrive on building complete solutions that seamlessly integrate both front-end and back-end components. Whether it's crafting elegant user interfaces or optimizing database queries, I'm passionate about creating robust and user-friendly applications.
 
@@ -41,14 +41,14 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
 
 - 👯 I’m looking to collaborate on any project with anyone 
 
--Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesnwoko      
+-Let's connect:  [![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesnwoko      
 
 charlznwoko@yahoo.com
 
 # GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemisoDaba&theme=algolia" align="left" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Icharlz&theme=algolia" align="left" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
