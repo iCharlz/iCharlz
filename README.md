@@ -41,7 +41,8 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
 
 - 👯 I’m looking to collaborate on any project with anyone 
 
--Let's connect:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white (https://linkedin.com/in/charlesnwoko)] 
+-Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlznwoko) 
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/icharlz25) charlznwoko@yahoo.com
 
 # Technology Stacks:
@@ -53,18 +54,5 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iCharlz&theme=algolia" align="left" />
 </p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<!--
-**iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-
--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
