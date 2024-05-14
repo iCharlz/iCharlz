@@ -1,7 +1,16 @@
-### Hi there 👋
+## 💫 About Me:
 
-# I'm a Full Stack Developer! 👨‍💻
+Hi 👋, I'm Charles Nwoko
 
+* Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer``` 👨‍💻
+
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
+
+[![](https://visitcount.itsvg.in/api?id=DemisoDaba&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DemisoDaba&show_icons=true)
+  
 As a versatile software engineer, I thrive on building complete solutions that seamlessly integrate both front-end and back-end components. Whether it's crafting elegant user interfaces or optimizing database queries, I'm passionate about creating robust and user-friendly applications.
 
 ## What I Bring to the Table:
@@ -32,7 +41,19 @@ Whether it's a greenfield project or enhancing an existing system, I'm ready to 
 
 - 👯 I’m looking to collaborate on any project with anyone 
 
--Let's connect: www.linkedin.com/in/charlesnwoko      charlznwoko@yahoo.com
+-Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesnwoko      
+
+charlznwoko@yahoo.com
+
+# GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemisoDaba&theme=algolia" align="left" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 <!--
 **iCharlz/iCharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
