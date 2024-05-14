@@ -5,11 +5,11 @@ Hi 👋, I'm Charles Nwoko
 * Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer``` 👨‍💻
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+it's+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
 
 [![](https://visitcount.itsvg.in/api?id=iCharlz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github stats](https://github-stats.omsimos.com/user/icharlz?theme=default&hide_border=true&count_private=true 
+![github stats](https://github-stats.omsimos.com/user/icharlz?theme=default&hide_border=true&count_private=true)
   
 As a versatile software engineer, I thrive on building complete solutions that seamlessly integrate both front-end and back-end components. Whether it's crafting elegant user interfaces or optimizing database queries, I'm passionate about creating robust and user-friendly applications.
 
