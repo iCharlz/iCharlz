@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Hi 👋, I'm Charles Nwoko
+## Hi 👋, I'm Charles Nwoko
 
 * Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer``` 👨‍💻
 
