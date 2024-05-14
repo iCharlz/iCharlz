@@ -9,7 +9,7 @@ Hi 👋, I'm Charles Nwoko
 
 [![](https://visitcount.itsvg.in/api?id=iCharlz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=https://vercel.com/charles-nwoko-s-team)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=https://vercel.com/charles-nwokos-projects)
   
 As a versatile software engineer, I thrive on building complete solutions that seamlessly integrate both front-end and back-end components. Whether it's crafting elegant user interfaces or optimizing database queries, I'm passionate about creating robust and user-friendly applications.
 
