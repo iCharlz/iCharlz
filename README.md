@@ -5,7 +5,7 @@
 * Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer``` 👨‍💻
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+it's+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind Tomorrow+will+be+better%2C+;and+if+it's+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
 
 [![](https://visitcount.itsvg.in/api?id=iCharlz&icon=0&color=0)](https://visitcount.itsvg.in)
 
