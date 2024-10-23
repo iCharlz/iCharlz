@@ -1,8 +1,8 @@
 ## 💫 About Me:
 
-## Hi 👋, I'm Charles Nwoko
+## Hi 👋, I'm Charles, Chidiebere Nwoko
 
-* Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer``` 👨‍💻
+A Software Engineer Graduate from ALX Hoberton school || ```Full stack developer``` 👨‍💻
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=For+God+hath+not+given+us%2C;+the+spirit+of+fear%2C;+but+of+power%2C;+and+of+love%2C;+and+of+a+sound+mind." alt="Typing SVG" /></a></p>
